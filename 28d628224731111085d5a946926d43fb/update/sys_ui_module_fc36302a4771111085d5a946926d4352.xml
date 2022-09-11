@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application/>
+        <filter/>
+        <name>User[sys_user]s</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles/>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-10 14:05:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fc36302a4771111085d5a946926d4352</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User[sys_user]s</sys_name>
+        <sys_package display_value="Innovate" source="x_884763_innovate">28d628224731111085d5a946926d43fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">28d628224731111085d5a946926d43fb</sys_scope>
+        <sys_update_name>sys_ui_module_fc36302a4771111085d5a946926d4352</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-10 14:05:43</sys_updated_on>
+        <table>x_884763_innovate_user_sys_user_</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
